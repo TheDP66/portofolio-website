@@ -4,3 +4,10 @@ npx create-react-app fe-portfolio-dp
 // Install Tailwind CSS
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+
+// Push to GITHUB
+git init
+git add -A
+git commit -m '....'
+git remote add origin git@github.com:TheDP66/portfolio-website
+git push -u -f origin master
