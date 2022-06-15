@@ -1,0 +1,6 @@
+// Create App
+npx create-react-app fe-portfolio-dp
+
+// Install Tailwind CSS
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
